@@ -34,7 +34,7 @@
 	syscall 
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -42,7 +42,7 @@
 	syscall
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -50,7 +50,7 @@
 	syscall
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -58,7 +58,7 @@
 	syscall
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -66,7 +66,7 @@
 	syscall
 	
 	li $v0, 4
-    la $a0, virgula
+   	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -90,7 +90,7 @@
 	syscall 
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -98,7 +98,7 @@
 	syscall
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -106,7 +106,7 @@
 	syscall
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -114,7 +114,7 @@
 	syscall
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
@@ -122,7 +122,7 @@
 	syscall
 	
 	li $v0, 4
-    la $a0, virgula
+    	la $a0, virgula
 	syscall
 	
 	li $v0, 1   
