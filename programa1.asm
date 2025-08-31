@@ -82,7 +82,7 @@
  	syscall 
  	
  	li $v0, 4
- 	la $a0, t_nao_ordenados
+ 	la $a0, t_ordenados
  	syscall 
  	
 	li $v0, 1   
