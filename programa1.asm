@@ -7,7 +7,7 @@
  	num6 : .word  9
  	linha: .asciiz "\n"
  	virgula: .asciiz ", "
- 	cabecalho1: .asciiz "PROGRAMA 1: ORDEM CRESCENTE (sem array)"
+ 	cabecalho1: .asciiz "PROGRAMA 1: ORDEM CRESCENTE (sem array e sem if/else)"
  	t_nao_ordenados: .asciiz "´Números Não Ordenados: "
  	t_ordenados: .asciiz "´Números Ordenados: "
 
