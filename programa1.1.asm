@@ -7,8 +7,8 @@
 
 .text
     main:
-        li $s0, 0                 
-        
+    
+        li $s0, 0 # contador
         la $t7, sequencia
         
         lw $t0, 0($t7)             
@@ -146,7 +146,4 @@
 
         li $v0, 1
         move $a0, $t5
-        syscall
-
-        li $v0, 10
         syscall
