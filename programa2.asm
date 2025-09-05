@@ -5,7 +5,7 @@
  	t_data_nasc1 : .asciiz "\nData de Nascimento 1: 2006"
  	t_data_nasc2 : .asciiz "\nData de Nascimento 2: 2025"
  	resultado: .asciiz "\nRESULTADO SOMA: "
- 	cabecalho2: .asciiz "PROGRAMA 2: SOMA DOS NASCIMENTOS"
+ 	cabecalho2: .asciiz "-- PROGRAMA 2: SOMA DOS NASCIMENTOS --"
 
  .text 
  
